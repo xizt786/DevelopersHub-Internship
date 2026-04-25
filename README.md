@@ -6,7 +6,7 @@ Internship at DevelopersHub Corporation.
 ## Tasks Completed
 - [x] Task 1: Exploring and Visualizing a Simple Dataset (Iris EDA)
 - [x] Task 3: Heart Disease Prediction
-- [ ] Task 6: House Price Prediction
+- [x] Task 6: House Price Prediction
 
 ---
 
@@ -65,4 +65,27 @@ ROC Curve, Feature Importance.
 ---
 
 ## Task 6: House Price Prediction
-*Coming soon*
+
+### Objective
+Predict house prices using property features such as 
+size, bedrooms, and location.
+
+### Dataset Used
+- **Housing Dataset** - 545 houses with 13 features 
+including area, bedrooms, bathrooms, and amenities.
+
+### Models Applied
+- **Linear Regression** - Simple baseline model
+- **Gradient Boosting** - More powerful ensemble model
+
+### Key Results and Findings
+- **Best Model:** Gradient Boosting
+- **MAE:** 964,059 (average prediction error)
+- **RMSE:** 1,301,872
+- **Top Feature:** Area is by far the strongest 
+  predictor of house price (0.45 importance score)
+- **Key Insight:** Area, bathrooms and airconditioning 
+  are the top 3 factors affecting house price. 
+  Guestroom and mainroad have minimal impact.
+- Gradient Boosting outperformed Linear Regression 
+  on both MAE and RMSE.
