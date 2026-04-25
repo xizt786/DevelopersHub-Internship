@@ -1,5 +1,13 @@
 ﻿# DevelopersHub Corporation - AI/ML Engineering Internship
 
+This repository contains my completed tasks for the AI/ML Engineering 
+Internship at DevelopersHub Corporation.
+
+## Tasks Completed
+- [x] Task 1: Exploring and Visualizing a Simple Dataset (Iris EDA)
+- [ ] Task 3: Heart Disease Prediction
+- [ ] Task 6: House Price Prediction
+
 ## Task 1: Exploring and Visualizing a Simple Dataset
 
 ### Objective
